@@ -1,0 +1,7 @@
+Todos (30 days)
+  -> animations
+  -> custom painter
+  -> render objects
+  
+
+  

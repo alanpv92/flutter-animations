@@ -1,0 +1,19 @@
+
+
+->flutter canvas
+    -> in normal canvas y is in vertical and x is in x direction (y starts from bottom to top and x starts from left to right)
+    -> flutter canvas its filped, y starts from top to bottom and x starts from left to right
+    -> z goes towards the screen
+
+    ->angles
+        -> normal angles move in anti clock wise 
+        -> in fluter angles moves in clock wise
+        -> formula to calulate point on circumfernece 
+              -> x = r* cos(angle)
+              -> y = y * sin(anlge)
+        -> pi = 180 degree
+
+    -> animation controller
+       -> takes values between 0 and 1 with a duration
+    -> animation
+       -> mps values in a desired range using animation controller             
