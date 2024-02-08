@@ -1,7 +1,16 @@
 Todos (30 days)
   -> animations
+  -> box shadows
   -> custom painter
+  -> theme management
   -> render objects
   
 
+
+Advance Todo(optional)
+-> read source code of animation controller,animation,single ticker provider,Animation Builder ,what is vync 
+
+
+  project 
+  -> create a package that has animated pie charts
   
