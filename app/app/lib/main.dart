@@ -1,3 +1,5 @@
+import 'package:app/animated_circle.dart';
+import 'package:app/practice/clipper.dart';
 import 'package:app/spining_container.dart';
 import 'package:flutter/material.dart';
 
@@ -14,9 +16,10 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: SafeArea(
             child: Center(
-          child: SpiningContainer(),
+          child: AnimatedCircle(),
         )),
       ),
     );
   }
 }
+

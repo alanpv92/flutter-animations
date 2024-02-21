@@ -1,6 +1,9 @@
 Todos (30 days)
   -> animations
-  -> box shadows
+    -> box shadows
+    -> clippers
+    ->curves
+    -> extentions
   -> custom painter
   -> theme management
   -> render objects

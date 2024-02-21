@@ -1,0 +1,17 @@
+-> with custom clipper we can draw any custom path
+-> we can use custom clipper with clip path Widget
+-> we can create path for required shape and return the path
+-> the important methods for path are
+    ->line to
+         -> draws a line from source to destination
+    -> move to
+          -> moves current source point to new destination
+    ->quadraticBezierTo
+          -> can be used to draw custom curve using control point and end point
+    ->cube to 
+          -> can use to control points to draw curve
+    ->arcToPoint
+           -> can draw an arrc from one point to another like give border radius               
+
+   refernece 
+   https://medium.com/flutter-community/flutter-custom-clipper-28c6d380fdd6        
